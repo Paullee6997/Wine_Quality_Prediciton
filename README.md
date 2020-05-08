@@ -1,0 +1,2 @@
+# Wine_Quality_Prediciton
+Like most people in the world, I am a huge fan of wine. Despite my interest in drinking wine, I have never really understood the intricacies of the cult like culture that surrounds the scoring and pricing of wine. Is determining the quality of wine as complicated as sommeilers make it to be or am I just a buffoon who should just stick to sipping. Regardless, in this project I dive into predicting the scores of red and white wines using the University of California Irvine's wine dataset.  
